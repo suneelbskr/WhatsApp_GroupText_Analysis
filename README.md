@@ -9,3 +9,5 @@ This Project is to do small analysis on the Whatsapp group chats
 5. Plot - Active Months
 6. Plot - Active hours in the day
 7. Plot - Active Day from the Week
+
+Lot of redundant code, need to create functions for Plotting images 
